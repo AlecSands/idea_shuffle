@@ -26,15 +26,15 @@ D3.js, Alexa custom skills creation, AngularJS, AngularJS Material, ng-sortable,
 
 Select a Topic Page
 <!-- ![Image of topic selection page](screenshots/topicselect.jpeg =250x) -->
-<img src="screenshots/topicselect.jpeg" alt="Drawing" style="width: 250px;"/>
+<img src="screenshots/topicselect.jpeg" width="250" />
 
 Dot Brainstorming Web
 <!-- ![Image of dot web](screenshots/dotweb.jpeg =250x) -->
-<img src="screenshots/dotweb.jpeg" alt="Drawing" style="width: 250px;"/>
+<img src="screenshots/dotweb.jpeg" width="250" />
 
 Test Brainstorming Web
 <!-- ![Image of text web](screenshots/textweb.jpeg =250x) -->
-<img src="screenshots/textweb.jpeg" alt="Drawing" style="width: 250px;"/>
+<img src="screenshots/textweb.jpeg" width="250" />
 
 ## Documentation
 
