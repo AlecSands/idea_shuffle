@@ -22,24 +22,20 @@ D3.js, Alexa custom skills creation, AngularJS, AngularJS Material, ng-sortable,
 - An Amazon Developer account will be required to create the skill with intents and slots.
 
 
-### Installing
-
-Steps to get the development environment running.
-
 ## Screen Shots
 
-Loading pages.
+Select a Topic Page
 ![Image of topic selection page](screenshots/topicselect.jpeg)
 
-Dot brainstorming web.
+Dot Brainstorming Web
 ![Image of dot web](screenshots/dotweb.jpeg)
 
-Loading pages.
+Test Brainstorming Web
 ![Image of text web](screenshots/textweb.jpeg)
 
 ## Documentation
 
-Link to a read-only version of your scope document or other relevant documentation here (optional). Remove if unused.
+The scope document that was used to guide the development of this web application can be found here: https://docs.google.com/document/d/1gFspUJHuTq6Q1Px7u029CLwlKXO_vt_5K79j6dG_xvk/edit?usp=sharing
 
 ### Completed Features
 
