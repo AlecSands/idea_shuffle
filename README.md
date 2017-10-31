@@ -10,10 +10,10 @@ D3.js, Alexa custom skills creation, AngularJS, AngularJS Material, ng-sortable,
 
 ## Getting Started
 
--Clone the repository and copy it onto your machine
--Make sure mongo is running in an open tab
--Run 'npm install' and 'npm start' in terminal
--Open a browser window to 'localhost:5000'
+- Clone the repository and copy it onto your machine
+- Make sure mongo is running in an open tab
+- Run 'npm install' and 'npm start' in terminal
+- Open a browser window to 'localhost:5000'
 
 ### Prerequisites
 
