@@ -23,15 +23,13 @@ Idea Shuffle is a full-stack web application developed to upgrade the efficiency
 
 - Clone the repository and copy it onto your machine
 - Make sure mongo is running in an open tab
-- Run 'npm install' and 'npm start' in terminal
-- Open a browser window to 'localhost:5000'
+- Run `npm install` and `npm start` in terminal
+- Open a browser window to *localhost:5000*
 
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/en/)
-- An Amazon Web Service (AWS) server will be required for the Alexa portion of the app.
-- An Amazon Developer account will be required to create the skill with intents and slots.
-
+- [MongoDB](https://www.mongodb.com/)
 
 ## Screen Shots
 
