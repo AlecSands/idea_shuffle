@@ -6,7 +6,17 @@ Idea Shuffle is a full-stack web application developed to upgrade the efficiency
 
 ## Built With
 
-D3.js, Alexa custom skills creation, AngularJS, AngularJS Material, ng-sortable, Node.JS, MongoDB, Express.js, HTML5, CSS3, and Javascript.
+- AngularJS
+- Node.JS
+- MongoDB
+- D3.js
+- AngularJS Material
+- ng-sortable
+- Express.js
+- HTML5
+- CSS3
+- Javascript
+- Alexa Skills Kit (see [this repo](https://github.com/AlecSands/alexa_shuffle) for more)
 
 ## Getting Started
 
@@ -32,7 +42,7 @@ Select a Topic                     |  Idea Web with Dots           |  Idea Web w
 
 ## Documentation
 
-The scope document that was used to guide the development of this web application can be found [here](https://docs.google.com/document/d/1gFspUJHuTq6Q1Px7u029CLwlKXO_vt_5K79j6dG_xvk/edit?usp=sharing). 
+The scope document that was used to guide the development of this web application can be found [here](https://docs.google.com/document/d/1gFspUJHuTq6Q1Px7u029CLwlKXO_vt_5K79j6dG_xvk/edit?usp=sharing).
 
 ### Completed Features
 
