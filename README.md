@@ -41,24 +41,27 @@ The scope document that was used to guide the development of this web applicatio
 
 High level list of items completed.
 
-- [x] Feature a
-- [x] Feature b
+- [x] User sign in using passport
+- [x] Add feature to select and add topics
+- [x] Enable users to add comments
+- [x] Enable users to shuffle comments
+- [x] Enable users to delete comments
+- [x] Display all categories as accordions
+- [x] Add drag and drop functionality to reorganize comments and categories. (stretch goal)
+- [x] Implement D3 to display the structure visually (stretch goal)
+- [x] Add angular material styling
+- [x] Call IBM Watson API to analyze the tone of the current brainstorming session
 
 ### Next Steps
 
 Features that you would like to add at some point in the future.
 
-- [ ] Feature c
+- [ ] Modify the D3 graphic to display the results of the IBM Watson API call.
 
-## Deployment
+<!-- ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Add additional notes about how to deploy this on a live system -->
 
 ## Authors
 
-* Name of author(s)
-
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
+* Alec Sands
