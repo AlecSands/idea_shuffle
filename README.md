@@ -16,6 +16,7 @@ Idea Shuffle is a full-stack web application developed to upgrade the efficiency
 - HTML5
 - CSS3
 - Javascript
+- Heroku
 - Alexa Skills Kit (see [this repo](https://github.com/AlecSands/alexa_shuffle) for more)
 
 ## Getting Started
