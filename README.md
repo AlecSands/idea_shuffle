@@ -32,7 +32,7 @@ Select a Topic                     |  Idea Web with Dots           |  Idea Web w
 
 ## Documentation
 
-The scope document that was used to guide the development of this web application can be found here: https://docs.google.com/document/d/1gFspUJHuTq6Q1Px7u029CLwlKXO_vt_5K79j6dG_xvk/edit?usp=sharing
+The scope document that was used to guide the development of this web application can be found [here](https://docs.google.com/document/d/1gFspUJHuTq6Q1Px7u029CLwlKXO_vt_5K79j6dG_xvk/edit?usp=sharing). 
 
 ### Completed Features
 
