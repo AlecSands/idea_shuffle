@@ -27,7 +27,6 @@ D3.js, Alexa custom skills creation, AngularJS, AngularJS Material, ng-sortable,
 Select a Topic                     |  Idea Web with Dots           |  Idea Web with Text
 :---------------------------------:|:-----------------------------:|:----------------------------:
 ![](screenshots/topicselect.jpeg)  |  ![](screenshots/dotweb.jpeg) |  ![](screenshots/textweb.jpeg)
-:---------------------------------:|:-----------------------------:|:----------------------------:
 
 ![](screenshots/ideashuffle.gif)
 
